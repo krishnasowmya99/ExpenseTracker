@@ -13,4 +13,4 @@ Usage:
     Clone the repository.
     Run the app: streamlit run app.py
 
-Check it out live on Streamlit Cloud:
+Check it out live on Streamlit Cloud: https://myexpensetracker.streamlit.app/
